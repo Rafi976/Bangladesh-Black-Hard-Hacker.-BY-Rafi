@@ -1,11 +1,11 @@
 # Built application files
-*.apk
-*.aar
-*.ap_
-*.aab
+*. Facebook 
+*. Facebook old
+*. Facebook page 
+*. Gmail 
 
-# Files for the ART/Dalvik VM
-*.dex
+# Gmail old
+*Gmail security 
 
 # Java class files
 *.class
